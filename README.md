@@ -1,4 +1,4 @@
-# StaticFrame from the Ground Up
+# StaticFrame from the Ground Up: Getting Started with Immutable DataFrames
 
 A Jupyter notebook tutorial for getting started with StaticFrame.
 
