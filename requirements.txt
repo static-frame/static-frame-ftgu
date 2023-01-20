@@ -1,5 +1,5 @@
 numpy==1.22.1
-automap==0.4.8
-arraykit==0.1.8
-static-frame==0.8.37
+automap==0.6.2
+arraykit==0.2.6
+static-frame==1.0.1
 
